@@ -23,3 +23,5 @@ Only then, you must type:
     npm run serve
     
 and you will see the project in your browser!
+
+![image](https://user-images.githubusercontent.com/40501852/152238721-7f4c1eb5-b072-4dfd-bfc8-68398c36b7f9.png)
